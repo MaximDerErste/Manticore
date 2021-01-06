@@ -1,2 +1,3 @@
 # Manticore
 The Manticore Bot-Net
+A Bot-Net which infiltrates the whole internet and eliminates specifical threaths or choosen targets...
